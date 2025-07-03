@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# 🏋️‍♀️ Fitness Gym App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The **Fitness Gym App** is a modern web application that helps users explore exercises, view instructional videos, and stay motivated in their fitness journey. Built with React and integrated with exercise-related APIs, this app provides a user-friendly platform for fitness enthusiasts.
+
+---
+
+## 🚀 Features
+
+- 🔍 **Search Exercises** by name, body part, equipment, or target muscle
+- 🎥 **Exercise Demos** with YouTube videos for visual learning
+- 🧠 **Muscle Group Filtering** for customized workout planning
+- 📱 Fully responsive design for mobile and desktop users
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Material UI
+- **API**: RapidAPI - ExerciseDB, YouTube Search & Download API
+- **Tools**: Git, VS Code, GitHub
+
+---
+
+
 
