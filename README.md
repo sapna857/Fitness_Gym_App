@@ -3,6 +3,11 @@
 The **Fitness Gym App** is a modern web application that helps users explore exercises, view instructional videos, and stay motivated in their fitness journey. Built with React and integrated with exercise-related APIs, this app provides a user-friendly platform for fitness enthusiasts.
 
 ---
+## 📸 Preview
+
+<img src="https://github.com/sapna857/Fitness_Gym_App/blob/main/fitnessAppPreview.png?raw=true" alt="Fitness Gym App Screenshot" width="700"/>
+
+---
 
 ## 🚀 Features
 
